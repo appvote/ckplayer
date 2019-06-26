@@ -1,5 +1,5 @@
 let orgurl = 'https://show.737max.tk:2096/'
-let zburl = 'https://996icu.ga:8080/?url=https://737max.tk/'
+let zburl = 'https://996icu.ga:8080/https/737max.tk/'
 let yyurl = '/yy/'
 let baoyuurl = '/api/baoyu'
 
